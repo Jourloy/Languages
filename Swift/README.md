@@ -6,3 +6,7 @@
 ### CodeLessons:
 * [Русскоязычный учебник по Swift 4 *(версия Swift устарела)*](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial)
 * [Разработка iOS приложения на Swift 2 *(версия Swift устарела)*](https://coderlessons.com/tutorials/mobilnaia-razrabotka/razrabotka-ios-s-swift2/razrabotka-ios-s-pomoshchiu-swift-2-xcode-ide)
+
+### Разное:
+* [Учебник по Swift 5]()
+* [Учебник Swift для детей]()
