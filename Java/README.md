@@ -1,1 +1,3 @@
-[Архив учебников по JAVA технологиям](https://coderlessons.com/tutorials)
+
+### CodeLessons:
+* [Архив учебников по JAVA технологиям **(версии могут быть устаревшими)**](https://coderlessons.com/tutorials)
