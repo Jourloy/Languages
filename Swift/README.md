@@ -4,6 +4,7 @@
 * [Онлайн Playground. Здесь можно потренироваться](http://online.swiftplayground.run/)
 * [Официальная книга в цифровом формате для MacOS и iOS](https://itunes.apple.com/ru/book-series/swift-programming-series/id888896989?mt=11)
 * [Официальный туториалы](https://developer.apple.com/tutorials/swiftui)
+* [Swift тур](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
 ### CodeLessons:
 * [Русскоязычный учебник по Swift 4 **(версия Swift устарела)**](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial)
